@@ -1,10 +1,10 @@
-💫:Hello there i am ALOK DWIVEDI a developer and Designer
-🔭 I’m currently working on J.A.R.V.I.S my personal AI assistant
-👯 I’m looking to collaborate on open source projects
-🤝 
-🌱 I’m currently learning java
-💬 Ask me about anything you want
-⚡ Fun fact
+💫:Hello there i am ALOK DWIVEDI a developer and Designer<BR>
+🔭 I’m currently working on J.A.R.V.I.S my personal AI assistant<BR>
+👯 I’m looking to collaborate on open source projects<BR>
+🤝 <BR>
+🌱 I’m currently learning java<BR>
+💬 Ask me about anything you want<BR>
+⚡ Fun fact<BR>
 
 
 
