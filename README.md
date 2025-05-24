@@ -1,10 +1,5 @@
-💫:Hello there i am ALOK DWIVEDI a developer and Designer<BR>
-🔭 I’m currently working on J.A.R.V.I.S my personal AI assistant<BR>
-👯 I’m looking to collaborate on open source projects<BR>
-🤝 <BR>
-🌱 I’m currently learning java<BR>
-💬 Ask me about anything you want<BR>
-⚡ Fun fact<BR>
+Hi there! I'm Alok Dwivedi,a passionate and curious B.Tech Computer Science student at SRM Institute of Science and Technology (SRMIST) Delhi-NCR. <br>
+I love exploring how technology works and enjoy building solutions that can make life a little easier, faster, and smarter. 🚀
 
 
 
