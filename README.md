@@ -4,7 +4,7 @@ I love exploring how technology works and enjoy building solutions that can make
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alok-dwivedi-b387b1326) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:a.dwivedi6303@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/alok-dwivedi-b387b1326](https://in.linkedin.com/in/alok-dwivedi-b387b1326)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:a.dwivedi6303@gmail.com) 
 <!-- Snake Game Repo View -->
 
 <div align="center">
