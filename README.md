@@ -1,11 +1,9 @@
-Hi there! I'm Alok Dwivedi,a passionate and curious B.Tech Computer Science student at SRM Institute of Science and Technology (SRMIST) Delhi-NCR. <br>
+Hi there! I'm Taniya Nautiyal , a passionate and curious B.Tech Computer Science student at SRM Institute of Science and Technology (SRMIST) Delhi-NCR. <br>
 I love exploring how technology works and enjoy building solutions that can make life a little easier, faster, and smarter. 🚀
 
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([[https://www.linkedin.com/in/alok-dwivedi-b387b1326](https://in.linkedin.com/in/alok-dwivedi-b387b1326)](https://in.linkedin.com/in/alok-dwivedi-b387b1326)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:a.dwivedi6303@gmail.com) 
-<!-- Snake Game Repo View -->
+
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
