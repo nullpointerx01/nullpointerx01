@@ -1,8 +1,8 @@
 Hi there! I'm Taniya Nautiyal , a passionate and curious B.Tech Computer Science student at SRM Institute of Science and Technology (SRMIST) Delhi-NCR. <br>
 I love exploring how technology works and enjoy building solutions that can make life a little easier, faster, and smarter. 🚀
 
-My portfolio :- alok-portfolio-257p.onrender.com/
-
+My portfolio :- alok-portfolio-257p.onrender.com
+<img src="alok-portfolio-257p.onrender.com" alt="Portfolio" />
 
 
 
